@@ -19,4 +19,3 @@ else {
     imc.textContent = calculo.toFixed(1)
     console.log('o imc de', tdnome, 'é',calculo)
 }
-//
